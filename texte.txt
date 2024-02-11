@@ -1,3 +1,5 @@
+                                            Les Fonctions
+
 Déclarer une fonction : Écrivez une fonction nommée saluer 
 qui affiche simplement "Bonjour !" dans la console lorsque vous l'appelez.
 
@@ -42,3 +44,58 @@ et retourne la somme de tous les nombres de 1 jusqu'à ce nombre.
 
 Vérifier si un nombre est premier : Écrivez une fonction nommée estPremier 
 qui prend un nombre en tant que paramètre et retourne true s'il est premier et false sinon.
+
+                                        LES TABLEAUX
+
+Somme des éléments :
+Écrivez une fonction sommeElements 
+qui prend un tableau de nombres en tant que paramètre
+et retourne la somme de tous les éléments du tableau.
+
+Moyenne des éléments :
+Écrivez une fonction moyenneElements 
+qui prend un tableau de nombres en tant que paramètre 
+et retourne la moyenne de tous les éléments du tableau.
+
+Plus grand élément :
+Écrivez une fonction plusGrandElement 
+qui prend un tableau de nombres en tant que paramètre 
+et retourne le plus grand élément du tableau.
+
+Inverser un tableau :
+Écrivez une fonction inverserTableau 
+qui prend un tableau en tant que paramètre 
+et retourne un nouveau tableau avec les éléments inversés. 
+Par exemple, [1, 2, 3] deviendrait [3, 2, 1].
+
+Vérifier la présence d'un élément :
+Écrivez une fonction contientElement 
+qui prend un tableau et une valeur en tant que paramètres 
+et renvoie true si le tableau contient cette valeur, sinon false.
+
+Supprimer les doublons :
+Écrivez une fonction supprimerDoublons 
+qui prend un tableau en tant que paramètre 
+et retourne un nouveau tableau avec les éléments uniques, en éliminant les doublons.
+
+Remplacer un élément :
+Écrivez une fonction remplacerElement 
+qui prend un tableau, une valeur à rechercher 
+et une valeur de remplacement en tant que paramètres, 
+et remplace toutes les occurrences de la valeur à rechercher 
+par la valeur de remplacement dans le tableau.
+
+Trier un tableau :
+Écrivez une fonction trierTableau 
+qui prend un tableau de nombres en tant que paramètre 
+et retourne un nouveau tableau avec les éléments triés par ordre croissant.
+
+Compter les occurrences :
+Écrivez une fonction compterOccurrences 
+qui prend un tableau et un élément en tant que paramètres, 
+et retourne le nombre d'occurrences de cet élément dans le tableau.
+
+Concaténer des tableaux :
+Écrivez une fonction concatenerTableaux 
+qui prend deux tableaux en tant que paramètres 
+et retourne un nouveau tableau avec les éléments des deux tableaux concaténés.
