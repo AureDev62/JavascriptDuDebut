@@ -1,0 +1,44 @@
+Déclarer une fonction : Écrivez une fonction nommée saluer 
+qui affiche simplement "Bonjour !" dans la console lorsque vous l'appelez.
+
+Ajouter des paramètres : Modifiez la fonction saluer pour qu'elle prenne un paramètre 
+nom et affiche "Bonjour, [nom] !" où [nom] 
+est remplacé par la valeur fournie lorsque vous appelez la fonction.
+
+Calculer une somme : Écrivez une fonction nommée somme qui prend deux paramètres a et b
+et retourne la somme de ces deux nombres.
+
+Calculer une moyenne : Écrivez une fonction nommée moyenne qui prend un tableau de nombres 
+en tant que paramètre et retourne la moyenne de ces nombres.
+
+Trouver le plus grand nombre : Écrivez une fonction nommée plusGrand qui prend un tableau 
+de nombres en tant que paramètre et retourne le plus grand nombre dans ce tableau.
+
+Vérifier si un nombre est pair ou impair : Écrivez une fonction nommée estPair 
+qui prend un nombre en tant que paramètre
+ et retourne true s'il est pair et false s'il est impair.
+
+Inverser une chaîne de caractères : Écrivez une fonction nommée inverserChaine 
+qui prend une chaîne de caractères en tant que paramètre et retourne cette chaîne inversée.
+
+Compter les occurrences d'un caractère : Écrivez une fonction nommée compterOccurrences 
+qui prend une chaîne de caractères et un caractère en tant que paramètres et
+retourne le nombre d'occurrences de ce caractère dans la chaîne.
+
+
+Multiplier deux nombres : Écrivez une fonction nommée multiplier 
+qui prend deux nombres en tant que paramètres et retourne leur produit.
+
+Calculer la longueur d'une chaîne : Écrivez une fonction nommée longueurChaine 
+qui prend une chaîne de caractères en tant que paramètre et retourne sa longueur.
+
+Vérifier si un nombre est positif, négatif ou nul : Écrivez une fonction nommée verifierNombre 
+qui prend un nombre en tant que paramètre et retourne "positif",
+ "négatif" ou "nul" en fonction de la valeur du nombre.
+
+Calculer la somme des nombres jusqu'à un certain nombre : Écrivez une fonction 
+nommée sommeJusqua qui prend un nombre entier positif en tant que paramètre 
+et retourne la somme de tous les nombres de 1 jusqu'à ce nombre.
+
+Vérifier si un nombre est premier : Écrivez une fonction nommée estPremier 
+qui prend un nombre en tant que paramètre et retourne true s'il est premier et false sinon.

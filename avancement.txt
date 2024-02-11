@@ -1,0 +1,35 @@
+Les tableaux : Apprenez à manipuler les tableaux en JavaScript, 
+y compris comment les créer, accéder à leurs éléments, les modifier, 
+les parcourir avec des boucles, etc.
+
+Les objets : Les objets sont des structures de données complexes 
+qui peuvent contenir des propriétés et des méthodes. 
+Apprenez à créer des objets, à accéder à leurs propriétés et à appeler leurs méthodes.
+
+La portée des variables : Comprenez la portée des variables en JavaScript, 
+y compris la portée locale et globale, ainsi que l'impact des mots-clés var, let et const.
+
+Les fonctions avancées : Explorez des concepts de fonctions avancées 
+tels que les fonctions fléchées, les fonctions récursives, les fonctions anonymes, 
+les fonctions de rappel (callback functions), les fonctions de rappel asynchrones, etc.
+
+La manipulation de chaînes de caractères : Apprenez à manipuler des chaînes de caractères 
+en JavaScript, y compris la concaténation, la recherche de sous-chaînes, le remplacement, etc.
+
+Les méthodes de tableau : Familiarisez-vous avec les méthodes de tableau intégrées 
+telles que map, filter, reduce, forEach, etc., qui permettent de manipuler 
+et de transformer des tableaux de manière efficace.
+
+La gestion des erreurs : Explorez les techniques de gestion des erreurs en JavaScript, 
+y compris les blocs try...catch, la création de vos propres exceptions, etc.
+
+La programmation orientée objet : Approfondissez vos connaissances 
+sur la programmation orientée objet (POO) en JavaScript, y compris la création de classes, 
+l'héritage, les méthodes de classe, etc.
+
+Les modules et l'import/export : Apprenez à organiser votre code en utilisant des modules, 
+et comment importer et exporter des fonctionnalités entre différents fichiers JavaScript.
+
+Les promesses et l'asynchronisme : Explorez les promesses JavaScript 
+et le modèle de programmation asynchrone, y compris l'utilisation de async/await 
+pour gérer les opérations asynchrones de manière synchrone.
